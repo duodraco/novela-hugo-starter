@@ -4,3 +4,9 @@
 [submodule "themes/massively"]
 	path = themes/massively
 	url = https://github.com/curtistimson/hugo-theme-massively.git
+[submodule "themes/soho"]
+	path = themes/soho
+	url = git@github.com:alexandrevicenzi/soho.git
+[submodule "themes/LeaveIt"]
+	path = themes/LeaveIt
+	url = https://github.com/liuzc/LeaveIt.git
