@@ -10,7 +10,7 @@ sections:
   path: content/_index.md
   label: Capa
 - type: directory
-  path: content/post
+  path: content/blogs
   label: Posts
   create: all
   match: "**/*"
