@@ -1,7 +1,6 @@
 +++
 avatar = "/images/20200209_110959-1.jpg"
 bio = "Ou Casi, ou Duodraco. Apaixonado por tecnologia desde a primeira linha de código (1988), Geek de carteirinha. Eterno aprendiz. Meu trabalho é desenvolver pessoas, times e software."
-draft = true
 featured = true
 title = "Anderson Casimiro"
 [[social]]
