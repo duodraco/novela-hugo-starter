@@ -1,6 +1,6 @@
 baseURL: "https://example.com"
-languageCode: "en-us"
-title: "Hugo Novela"
+languageCode: "pt-br"
+title: "Duodraco"
 pygmentsstyle: 'monokai'
 
 # Theme settings
