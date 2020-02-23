@@ -4,16 +4,16 @@ bio = "Ou Casi, ou Duodraco. Apaixonado por tecnologia desde a primeira linha de
 featured = true
 title = "Anderson Casimiro"
 [[social]]
-title = "Linkedin"
+title = "linkedin"
 url = "https://linkedin.com/in/andersoncasimiro"
 [[social]]
-title = "Twitter"
+title = "twitter"
 url = "https://twitter.com/duodraco"
 [[social]]
-title = "Instagram"
+title = "instagram"
 url = "https://instagram.com/duodraco"
 [[social]]
-title = "Github"
+title = "github"
 url = "https://github.com/duodraco"
 
 +++
