@@ -1,0 +1,62 @@
+baseURL: "https://example.com"
+languageCode: "pt-br"
+title: "Duodraco"
+pygmentsstyle: "darcula"
+enableInlineShortcodes: true
+summaryLength: 10
+enableEmoji: true
+disqusShortname: "duodraco"
+
+# Theme settings
+theme: LeaveIt
+
+params:
+  author: "Anderson Casimiro"
+  description: "Tecnologia, Gestão e afins"
+  gravatar: "duodraco@gmail.com"
+  copyright: "Anderson Casimiro"
+  license: "CC BY-SA 4.0"
+  licenseURL: "https://creativecommons.org/licenses/by-sa/4.0"
+  themeColor: "#003366"
+  socialIcons:
+    - {icon: "fa-linkedin", title: "Linkedin", url: "https://linkedin.com/in/andersoncasimiro"}
+    - {icon: "fa-twitter", title: "Twitter", url: "https://twitter.com/duodraco"}
+    - {icon: "fa-instagram", title: "Instagram", url: "https://instagram.com/duodraco"}
+    - {icon: "fa-github", title: "Github", url: "https://github.com/duodraco"}
+menu:
+  main:
+    - {name: "Posts", weight: 100, identifier: "post", url: "/post/"}
+    - {name: "Sobre", weight: 100, identifier: "author", url: "/about"}
+  #profilePicture: "/images/20200209_110959.jpg"
+
+
+# ## Set custom CSS and/or JS to override site defaults.
+# customCss = ["css/blog.css"]
+# customJs = ["js/blog.js"]
+
+# [menu]
+
+#   [[menu.main]]
+#   name = "Posts"
+#   weight = 100
+#   identifier = "posts"
+#   url = "/posts/"
+
+#   [[menu.main]]
+#   name = "About"
+#   identifier = "about"
+#   weight = 300
+#   url = "/about/"
+
+# [markup]
+
+#   [markup.highlight]
+#   codeFences = true
+#   guessSyntax = false
+#   hl_Lines = ""
+#   lineNoStart = 1
+#   lineNos = false
+#   lineNumbersInTable = true
+#   noClasses = true # if false, you need to provide you own custom CSS
+#   style = "monokai"
+#   tabWidth = 4

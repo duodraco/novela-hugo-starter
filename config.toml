@@ -1,0 +1,61 @@
+baseURL = "https://example.com"
+languageCode = "pt-br"
+title = "Duodraco"
+theme = "LeaveIt"
+
+paginate = 12
+enableEmoji = true
+enableRobotsTXT = true
+googleAnalytics = ""
+
+preserveTaxonomyNames = true
+
+[blackfriday]
+  hrefTargetBlank = true
+  nofollowLinks = true
+  noreferrerLinks = true
+
+[Permalinks]
+ posts = "/:year/:filename/"
+
+[menu]
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 1
+
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
+
+[params]
+    since = 1981
+    author = "Anderson Casimiro"                           # Author's name
+    avatar = "/images/20200209_110959-1.jpg"           # Author's avatar
+    subtitle = "Tecnologia, Desenvolvimento, Gestão, Agilismo e muito mais"         # Subtitle
+    cdn_url = ""           # Base CDN URL
+    home_mode = "" # post or other
+
+    google_verification = ""
+   
+    description = "" # site description
+    keywords = "" # site keywords
+
+    beian = ""
+    baiduAnalytics = ""
+
+    license= '<a rel="license" href="https://creativecommons.org/licenses/by-nc/4.0/deed.pt_BR" target="_blank">Atribuição-NãoComercial 4.0 Internacional (CC BY-NC 4.0)</a>'
+
+[params.social]
+    GitHub = "duodraco"
+    Twitter = "duodraco"
+    Email   = "duodraco@gmail.com"
+    Instagram = "duodraco"
+    #Wechat = "/images/me/wechat.png"  # Wechat QRcode image
+    #Facebook = "xxoo"
+    Telegram = "duodraco"
+    Linkedin = "andersoncasimiro"
+    # Dribbble = "xxoo"
+    # Medium = "xxoo"
+

@@ -1,14 +1,14 @@
-+++
-authors = ["Anderson Casimiro"]
-date = 2018-09-10T03:00:00Z
-excerpt = "Hoje o assunto é deveras diferente do habitual, mas com certeza faz todo o sentido de ser postado aqui. Tudo começou em uma conversa com minha mentora e gerente Ana Prado e realizei que sempre ou me esquivava do assunto, ou era raso quando me questionam: “no quê você acredita?”. Pois vou contar a respeito dessa minha crença, o meu momento e, principalmente, do meu aprendizado e descobertas a respeito."
-hero = "/images/0__oBuckG6MWE0tJRCI.jpg"
-timeToRead = 4
-title = "Qual o nosso propósito"
-
-+++
+---
+authors: ["Anderson Casimiro"]
+date: 2018-09-10T03:00:00Z
+excerpt: "Hoje o assunto é deveras diferente do habitual, mas com certeza faz todo o sentido de ser postado aqui. Tudo começou em uma conversa com minha mentora e gerente Ana Prado e realizei que sempre ou me esquivava do assunto, ou era raso quando me questionam: “no quê você acredita?”. Pois vou contar a respeito dessa minha crença, o meu momento e, principalmente, do meu aprendizado e descobertas a respeito."
+featured_image: "/images/0__oBuckG6MWE0tJRCI.jpg"
+title: "Qual o nosso propósito"
+resources:
+  - name: featuredImage
+    src: "0__oBuckG6MWE0tJRCI.jpg"
+---
 Salve Pessoal!
-
 Hoje o assunto é deveras diferente do habitual, mas com certeza faz todo o sentido de ser postado aqui. Tudo começou em uma conversa com minha mentora e gerente Ana Prado e realizei que sempre ou me esquivava do assunto, ou era raso quando me questionam: “no quê você acredita?”. Pois vou contar a respeito dessa minha crença, o meu momento e, principalmente, do meu aprendizado e descobertas a respeito.
 
 ***
