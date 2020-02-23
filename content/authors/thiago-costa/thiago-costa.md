@@ -1,23 +1,20 @@
 +++
-avatar = "/images/thiago-costa.jpg"
-bio = "Written by You. This is where your author bio lives. Share your work, your\njoys and of course, your Twitter handle.\n"
+avatar = "/images/20200209_110959-1.jpg"
+bio = "Ou Casi, ou Duodraco. Apaixonado por tecnologia desde a primeira linha de código (1988), Geek de carteirinha. Eterno aprendiz. Meu trabalho é desenvolver pessoas, times e software.\n"
 draft = true
-featured = false
-title = "Thiago Costa"
+featured = true
+title = "Anderson Casimiro"
 [[social]]
-title = "github"
-url = "https://github.com"
+title = "Linkedin"
+url = "https://linkedin.com/in/andersoncasimiro"
 [[social]]
-title = "github"
-url = "https://github.com"
+title = "Github"
+url = "https://github.com/duodraco"
 [[social]]
-title = "github"
-url = "https://github.com"
+title = "Instagram"
+url = "https://instagram.com/duodraco"
 [[social]]
-title = "github"
-url = "https://github.com"
-[[social]]
-title = "github"
-url = "https://github.com"
+title = "Twitter"
+url = "https://twitter.com/duodraco"
 
 +++
